@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola, soy Sabrina 👋
 
-<!--
-**sabry-neyra/Sabry-Neyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Programación Full Stack | Desarrollo Web | En constante aprendizaje 🚀
 
-Here are some ideas to get you started:
+🎓 Estudiante de Tecnicatura Universitaria en Programación Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Actualmente estudiando y practicando:
+
+* HTML
+* JavaScript
+* Node.js
+* PostgreSQL
+* Git
+* GitHub
+
+🚀 Interesada en el desarrollo web y en continuar aprendiendo nuevas tecnologías.
+
+## 🛠️ Tecnologías
+
+* HTML
+* JavaScript
+* Node.js
+* PostgreSQL
+* Git
+* GitHub
+
+## 📂 Proyectos
+
+### 🛒 Sistema de Gestión de Ventas
+
+Aplicación desarrollada en Node.js para gestionar ventas y compras, utilizando arquitectura en capas y control de versiones con Git y GitHub.
+
+## 📫 Contacto
+
+🔗 LinkedIn: https://www.linkedin.com/in/sabrina-neyra/
+
+🐙 GitHub: https://github.com/sabry-neyra
+
