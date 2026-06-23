@@ -36,5 +36,5 @@ Aplicación desarrollada en Node.js para gestionar ventas y compras, utilizando 
 
 🔗 LinkedIn: https://www.linkedin.com/in/sabrina-neyra/
 
-🐙 GitHub: https://github.com/sabry-neyra
+🐙 GitHub Page: https://sabry-neyra.github.io/
 
