@@ -32,6 +32,8 @@ Aplicación desarrollada en Node.js para gestionar ventas y compras, utilizando 
 
 ## 📫 Contacto
 
+🔗 Correo electronico: sabryneyra2008@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/sabrina-neyra/
 
 🐙 GitHub: https://github.com/sabry-neyra
